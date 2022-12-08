@@ -18,7 +18,6 @@ The sequence of creation in the development of directories is in numerical order
 
 
 ### Reference:
-- [C++ Full Course ⚡️ (FREE)](https://youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on) 
 - [@BroCodez](https://www.youtube.com/@BroCodez)
 
 I am available to maintain and improve this project. I hope this material helps you in your studies... Give your contribution by leaving a ⭐ on the project and giving constructive criticism!
