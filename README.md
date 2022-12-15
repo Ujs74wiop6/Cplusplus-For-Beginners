@@ -7,6 +7,8 @@
 + Structure
 + Syntax
 + Functions/Methods
++ Guidelines
++ Good habits
 + And much more...
 
 The sequence of creation in the development of directories is in numerical order (ascending), in the perception of the studies from the simplest concept to the most complex
@@ -17,8 +19,7 @@ During the process of building the project, I used two Operating Systems!
 - Cygwin64 Terminal ✅
 - gcc version: ( 11.3.0 / 7.4.0 )
 - IDE: NetBeans version: ( 12.5 / 16 )
-
-
+##
 ### Reference and Acknowledgments
 - Teacher Ivan Oliveira Lopes
 - Teacher Natal Henrique Cordeiro / @NatalHCord 
