@@ -15,8 +15,8 @@ The sequence of creation in the development of directories is in numerical order
 During the process of building the project, I used two Operating Systems! 
 - Windows 10 && Linux (Ubunto -v 22.04)
 - Cygwin64 Terminal ✅
-- gcc version: (11.3.0) && (7.4.0)
-- IDE: NetBeans version 12.5
+- gcc version: ( 11.3.0 / 7.4.0 )
+- IDE: NetBeans version: ( 12.5 / 16 )
 
 
 ### Reference and Acknowledgments
