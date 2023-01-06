@@ -19,6 +19,7 @@ During the process of building the project, I used two Operating Systems!
 - Cygwin64 Terminal ✅
 - gcc version: ( 11.3.0 / 7.4.0 )
 - IDE: NetBeans version: ( 12.5 / 16 )
+- Text Editor: Visual Studio Code
 ##
 ### Reference and Acknowledgments
 - Teacher Ivan Oliveira Lopes
