@@ -14,5 +14,6 @@ cout << &name << endl;
 cout << &age << endl;
 cout << &student << endl;
 
+
 return 0;
 }
