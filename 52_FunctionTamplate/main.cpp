@@ -17,7 +17,7 @@ int main(){
                                 - Simple demo of 'universal' function to make comparisons 
                                    between different data types | What was to be done in multiple functions, done in a single
     */
-
+   
     std::cout << max(1, 'A') << '\n';
     
     return 0;

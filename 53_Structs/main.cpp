@@ -8,7 +8,6 @@ struct student{
     bool enrolled;
 };
 
-
 int main(){
 
     /*

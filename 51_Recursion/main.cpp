@@ -21,7 +21,6 @@ int main(){
                      slower
     */
 
-
    int opc = 0;
 
     cout << "1 - Example simples"
