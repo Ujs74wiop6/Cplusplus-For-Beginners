@@ -1,7 +1,7 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="80px"/> cout << "C++ For Beginners" << endl;
 
 
-> Status: in development ⚠️
+> Status: Partially Completed ✅
 
 #### Space for introduction to C++ language
 + Structure
